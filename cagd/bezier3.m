@@ -6,7 +6,7 @@ function b = bezier3(Bx,By,Bz,U)
 %   b = bezier3(Bx,By,Bz,U) 
 % 
 % Vhodni podatki: 
-%   Bx, By, Bz matrike velikosti n+1 x n+1, ki dolo�ajo 
+%   Bx, By, Bz matrike velikosti n+1 x n+1, ki dolocajo 
 %       koordinate kontrolnih tock Bezierjeve krpe 
 %       (element posamezne matrike na mestu (i,j), 
 %       j <= n+2-i, doloca koordinato kontrolne 
