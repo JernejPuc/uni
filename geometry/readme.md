@@ -44,4 +44,6 @@ Credit for the above images goes to: <http://www.ams.org/publicoutreach/feature-
 
 ##  End result
 
+For a random low `n` example (`n` is low for clarity), the result should look something like this:
+
 ![alt text](readme_images/Figure_1.png "Final pairings.")
