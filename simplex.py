@@ -18,7 +18,7 @@ def simplex(c, A, b, J, K):
     Primary LP definition:
         min c'*x
         A*x == b
-        x == 0
+        x >= 0
 
     Input:
         c: vector of objective coefficients
