@@ -36,6 +36,8 @@ Viewed in the primal plane, this intersection forms the bisecting line for the h
 
 ![alt text](readme_images/fcarc-december2011-ham.final.jpg "n red and n blue.")
 
+Theoretically, `O(nlogn)` complexity can be thus achieved. The given implementation is suboptimal, although considerably faster than the convex hull approach. Using it, the problem can be solved for `n >= 30000` in under `5` seconds.
+
 #### Note
 
 Credit for the above images goes to: <http://www.ams.org/publicoutreach/feature-column/fc-2011-12)>.
