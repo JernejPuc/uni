@@ -40,7 +40,7 @@ Theoretically, `O(nlogn)` complexity can be thus achieved. The given implementat
 
 #### Note
 
-Credit for the above images goes to: <http://www.ams.org/publicoutreach/feature-column/fc-2011-12)>.
+Credit for the above images goes to: <http://www.ams.org/publicoutreach/feature-column/fc-2011-12>.
 
 ##  End result
 
