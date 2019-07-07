@@ -123,7 +123,7 @@ def chull(R):
     P_append = P.append
     Q_append = Q.append
 
-    # (Re)construct the convex hull by using a varation on Andrew's monotone chain algorithm
+    # (Re)construct the convex hull by using an optimised Andrew's monotone chain algorithm
     while len(R):
         # Endpoints
         r0 = R[0]
