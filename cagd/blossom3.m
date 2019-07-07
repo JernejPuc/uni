@@ -1,6 +1,6 @@
 function b = blossom3(B, U)
 % Opis:
-%   blossom3  izra�una  razcvet  polinoma  dveh  spremenljivk
+%   blossom3  izracuna  razcvet  polinoma  dveh  spremenljivk
 %
 % Definicija:
 %   b = blossom3(B, U)
