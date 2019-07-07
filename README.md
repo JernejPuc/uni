@@ -13,4 +13,4 @@ Certain problems have their own `readme` files for better illustration.
 
 #### Note
 
-The code is commented somewhat inconsistently and is unlikely to be updated, but might be helpful nonetheless (free to use in any capacity).
+Most implementations are coded in `python`, while a few are either in `Rust` or `matlab`. The code is commented somewhat inconsistently and is unlikely to be updated, but might be helpful nonetheless (free to use in any capacity).
